@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#myVideo {
+    margin: 5% 10%;
+    height: 800px;
+    width: 1000px;
+}
+
